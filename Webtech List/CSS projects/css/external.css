@@ -1,0 +1,23 @@
+*{
+margin:0;
+padding:0;
+}
+
+#wrapper{
+width:1024px;
+margin:0px,auto;
+}
+
+h1,h2,h3{
+font:italic 12px;
+color:green;
+}
+
+p{
+text-indent:5px;
+color:blue;
+}
+
+p span{
+color:red;
+}
